@@ -2,6 +2,139 @@
 
 A modern Next.js + Tailwind CSS project with a dark-centered layout, a custom component library, and multiple app pages for products, cart, account, contact, and authentication.
 
+## Promts
+
+You are a Senior Frontend Architect and Expert Next.js Developer.
+
+Build a production-quality mini e-commerce/product showcase website using Next.js 14+ App Router and TypeScript.
+
+Theme: Modern Electronics Store (smartphones, laptops, headphones, smartwatches).
+
+The application must follow real-world frontend engineering practices and recruiter-level coding standards.
+
+Tech Stack:
+- Next.js 14+
+- TypeScript
+- Tailwind CSS
+- Context API or Zustand
+- Framer Motion
+- Local JSON data
+
+Requirements:
+- Scalable folder structure
+- Reusable components
+- Dynamic product routes
+- SEO optimization
+- Responsive design
+- Performance optimization
+- Production-ready architecture
+
+Generate:
+- App Router structure
+- Reusable UI components
+- Context providers
+- Utility functions
+- Hooks
+- SEO metadata setup
+- Type-safe interfaces
+- README documentation
+
+
+## Design Promt
+Design a modern premium ecommerce UI inspired by Apple and Amazon.
+
+Requirements:
+- Minimal clean interface
+- Mobile-first responsive design
+- Sticky navbar
+- Smooth hover animations
+- Product cards with glassmorphism effects
+- Framer Motion transitions
+- Skeleton loading states
+- Responsive drawer menu
+- Product badges
+- Wishlist interactions
+- Accessible forms
+
+Use Tailwind CSS best practices with proper spacing, typography, and visual hierarchy.
+
+## Product Listing
+
+Create a scalable product listing page for a Next.js ecommerce application.
+
+Features:
+- Search products
+- Debounced search
+- Category filtering
+- Price sorting
+- Rating sorting
+- Pagination
+- Responsive product grid
+- Empty state handling
+
+Use:
+- useMemo for optimization
+- TypeScript interfaces
+- Reusable filtering utilities
+- Clean state management patterns
+
+## Product Detail Page Prompt
+
+Build a dynamic product detail page using Next.js App Router dynamic routes.
+
+Requirements:
+- Product image gallery
+- Thumbnail previews
+- Product specifications
+- Ratings section
+- Related products
+- Breadcrumb navigation
+- Add to cart functionality
+- Wishlist toggle
+- Responsive layout
+
+Optimize using:
+- Next/Image
+- Lazy loading
+- Memoized rendering
+- Dynamic imports where appropriate
+
+## Cart System Prompt
+
+Create a production-level ecommerce cart system using React Context API.
+
+Features:
+- Add/remove/update cart items
+- Quantity management
+- LocalStorage persistence
+- Shipping calculation
+- Tax calculation
+- Discount logic
+- Checkout summary
+- Empty cart state
+
+Requirements:
+- Type-safe implementation
+- Optimized rendering
+- Reusable cart utilities
+- Error handling
+- Clean architecture
+
+## SEO Optimization Prompt
+
+Implement production-grade SEO optimization in a Next.js 14 App Router project.
+
+Requirements:
+- Metadata API
+- Dynamic page titles
+- Meta descriptions
+- Open Graph tags
+- Semantic HTML
+- Accessible components
+- SEO-friendly URLs
+
+Generate reusable SEO utility functions and metadata configuration. 
+
 ## Project Overview
 
 This repository is built with:
