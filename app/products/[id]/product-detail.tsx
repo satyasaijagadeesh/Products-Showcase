@@ -25,7 +25,7 @@ export function ProductDetail({ product }: ProductDetailProps) {
   };
 
   return (
-    <div>
+    <div className="mt-8">
       {/* Breadcrumb */}
       <nav className="mb-8">
         <Link
